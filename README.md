@@ -17,7 +17,7 @@
       <img src="https://media.giphy.com/media/gi84IkFRzwube/giphy.gif" width="600" height="300">
     </div>
     <div><h3>👨‍💻  About Me:</h3>
-      <p>I am python developer from Russia.</p>
+      <p>I am python developer</p>
     </div>
     <div><h3> 🛠️ Languages and Tools:</h3></div>
    <div>
